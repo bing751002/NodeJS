@@ -1,0 +1,17 @@
+{
+  "name": "TestBroker",
+  "version": "0.0.0",
+  "description": "TestBroker",
+  "main": "app.js",
+  "author": {
+    "name": "mummyqq",
+    "email": ""
+  },
+  "dependencies": {
+    "loopback-datasource-juggler": "~2.41.0",
+    "loopback": "~2.22.2",
+    "mongodb": "~2.0.46",
+    "mysql": "~2.9.0",
+    "mosca": "~0.32.1"
+  }
+}
